@@ -17,5 +17,4 @@
 (2) 橘色: versicolor <br>
 (3) 紫色: virginica
 
-
 ![image](https://github.com/WuJammy/iris_petal_python/blob/master/img/1420.png)
